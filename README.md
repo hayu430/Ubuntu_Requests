@@ -1,4 +1,4 @@
-🧮 Simple Calculator – PLP Assignment
+🧮 Week one assignment Simple Calculator – PLP Assignment
 
 This is a fun little calculator built in Python as part of my Power Learn Project (PLP) assignment.
 It can add, subtract, multiply, and divide — just like a real calculator… but with more “welcome” messages! 😄
