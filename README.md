@@ -1,55 +1,50 @@
-🧮 Week one assignment Simple Calculator – PLP Assignment
+🧮 Python Assignments – PLP Academy
 
-This is a fun little calculator built in Python as part of my Power Learn Project (PLP) assignment.
-It can add, subtract, multiply, and divide — just like a real calculator… but with more “welcome” messages! 😄
+This repository contains all my Python assignments while learning at Power Learn Project (PLP) Academy.
+Each assignment is a small, fun project that helps me practice different Python concepts and improve my coding skills. 😄
 
-✨ Features
+✨ What’s Inside
 
-➕ Addition – Adds two numbers
+Each  file is a different assignment:
 
-➖ Subtraction – Subtracts one number from another
+Week One – Simple Calculator
+A basic calculator that can add, subtract, multiply, and divide numbers with friendly “welcome” messages.
 
-✖ Multiplication – Multiplies two numbers
+Week Two – pythonWeekTwoass
 
-➗ Division – Divides one number by another (but warns you if you try dividing by zero 🚫)
 
-📜 How It Works
+......
 
-The program welcomes you to the calculator.
 
-You enter the first number.
-
-You choose an operator: +, -, *, x, or /.
-
-You enter the second number.
-
-The program calls the right function and shows your result.
+… and so on. Each week introduces new Python concepts like loops, lists, functions, and more.
 
 💻 How to Run
 
 Make sure you have Python 3 installed.
 
-Save the code in a file called calculator.py.
+Open your terminal or command prompt.
 
-Open your terminal/command prompt and run:
+Navigate to the folder of the assignment you want to run.
+
+Run the Python file, for example:
 
 python calculator.py
 
 
-Follow the prompts to calculate!
+Follow the prompts and enjoy the program! 😎
 
-📝 Example Run
+📝 Notes
+
+These programs are beginner-friendly and meant for learning.
+
+Some spelling mistakes and funny messages are intentionally kept for fun vibes. 😆
+
+Each program usually asks for user input and then shows results immediately.
+
+📌 Example Run (Week One Calculator)
 wel come to culculating
 enter the first number : 8
 enter operator : *
 enter the second number : 3
 wel come to multiplication part
 result is: 24.0
-
-📌 Notes
-
-This program is case-insensitive for multiplication — you can use * or x.
-
-Division by zero will not crash the program. It will simply tell you it’s invalid.
-
-The spelling of “wel come” and “culculating” is left in for extra fun vibes. 😆
